@@ -7,9 +7,6 @@ import './../../styles/addreservation.css'
 
 
 
-
-
-
 function AddReservations() {
   const [name, setName] = useState('');
   const [date, setDate] = useState('');
@@ -19,7 +16,6 @@ function AddReservations() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    // handle form submission here
   };
 
   return (

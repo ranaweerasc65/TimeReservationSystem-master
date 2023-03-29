@@ -19,7 +19,6 @@ function AddReservations() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    // handle form submission here
   };
 
   return (
