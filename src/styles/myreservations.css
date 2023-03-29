@@ -17,9 +17,7 @@
     color: #faf7f7;
   }
   
-  tbody tr:nth-child(even) {
-    background-color: #fbf4e1;
-  }
+
   
   .actions {
     display: flex;
